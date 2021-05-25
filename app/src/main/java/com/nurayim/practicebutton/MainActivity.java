@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         Rectangle.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(),"Rectungle Button",Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),"Rectangle Button",Toast.LENGTH_SHORT).show();
             }
         });
 
